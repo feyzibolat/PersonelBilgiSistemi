@@ -1,7 +1,6 @@
 # PersonelBilgiSistemi
 C Dili ile Personel Bilgi Sistemi
 
-
 ![T3](http://drive.google.com/uc?export=view&id=1rknmBpdItWUN1ur4RuQsAN72EZz0PFn-)
 
 ![T3](http://drive.google.com/uc?export=view&id=1taqmxme4f3Og-S1_9dXHy9OCZAxJ-Nu8)
